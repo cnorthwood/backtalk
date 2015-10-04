@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    backtalk (1.0.0)
+      sass
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    sass (3.4.13)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  backtalk!

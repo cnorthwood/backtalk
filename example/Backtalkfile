@@ -1,0 +1,5 @@
+definition do | d |
+  d.gem_name = 'backtalktest'
+  d.version = '0.0.1'
+  d.authors = "Chris Northwood <chris@pling.org.uk>"
+end
